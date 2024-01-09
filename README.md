@@ -1,1 +1,1 @@
-# https://sailesesiom.github.io/page/privacy-policy/
+# https://sailesesiom.github.io/page/
