@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    background-color: yellow;
+    border-radius: 10px;
+    color:brown;
+    box-shadow: 8px 8px 4px #888;
+}
+.contenido{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    background-color: yellow;
+    border-radius: 10px;
+    font-family:fantasy;
+    color:brown;
+    box-shadow: 8px 8px 4px #888;
+}
+.sombra{
+    -webkit-text-shadow: 2px 2px 5px #999;
+    -moz-text-shadow: 2px 2px 5px #999;
+    text-shadow: 4px 4px 2px #888;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 302px;
+}
+.footer{
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    background-color: yellow;
+    border-radius: 10px;
+    color:brown;
+    box-shadow: 8px 8px 4px #888;
+}
